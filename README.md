@@ -1,6 +1,14 @@
 # <a>Carlton Hurd</a>'s Portfolio👨🏾‍💻 🔐
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+I thrive on solving complex security challenges and I aspire to lead blue team projects & initiatives that protect organizations from sophisticated cyber threats. Known as a "jack of all trades" I seamlessly blend diverse skills & tools to eliminate threats and enhance cyber defences, doing my part to safeguard any digital environment I work in.
+
+With a B.S. in Cybersecurity & Information Assurance and certifications including CompTIA Security+, PenTest+, Network+, AZ-900, and ITIL 4, I bring comprehensive expertise in vulnerability management and security operations. In my role as a Cyber Security Support Engineer, I conduct thorough vulnerability scans, prioritize risks, and implement automated remediations using PowerShell, achieving a 100% reduction in critical vulnerabilities and eliminating brute force attacks.
+
+My technical proficiencies include Endpoint Detection and Response, CVE/CWE Management, CVSS Scoring, OWASP Top 10, PowerShell and BASH scripting, firewall/NSG configuration, and compliance with frameworks like NIST and PCI-DSS. I utilize tools such as Tenable, Microsoft Defender for Endpoint, and Microsoft Sentinel, leveraging KQL to develop insightful dashboards and advanced threat hunting scenarios.
+
+I excel in collaborative environments, consistently finding the best ways to contribute and drive security initiatives forward. My ability to build rapport, maintain transparency, and align security efforts with business needs ensures effective teamwork and impactful results. Known as a versatile problem-solver with sniper-like precision, I enhance the digital landscape through innovative and proactive security measures.
+
+I am eager to connect with professionals and organizations seeking to strengthen their security posture. Let’s collaborate to protect and defend your digital assets against today’s and tomorrow’s cyber threats.
 
 
 ## ⚠️ Vulnerability Management Projects
