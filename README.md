@@ -11,7 +11,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario Project 1 - Tor Browser Usage](https://github.com/churd-git/Threat-Hunting-Scenario-Tor)**
-- **[Threat Hunting Scenario Project 1 - Command and Scripting Interpreter: PowerShell](https://github.com/churd-git/Threat-Hunting-T1059)**
+- **[Threat Hunting Scenario Project 2 - Command and Scripting Interpreter: PowerShell](https://github.com/churd-git/Threat-Hunting-T1059)**
 
 <hr/>
 
