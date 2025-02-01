@@ -20,6 +20,7 @@ I am eager to connect with professionals and organizations seeking to strengthen
 
 - **[Threat Hunting Scenario Project 1 - Tor Browser Usage](https://github.com/churd-git/Threat-Hunting-Scenario-Tor)**
 - **[Threat Hunting Scenario Project 2 - Command and Scripting Interpreter: PowerShell](https://github.com/churd-git/Threat-Hunting-T1059)**
+- **[Threat Hunting Scenario Project 3 - Brute force, Cridential Stuffing](https://github.com/churd-git/Threat-Hunting-Cridential-Stuffing)**
 
 <hr/>
 
