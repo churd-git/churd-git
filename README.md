@@ -16,11 +16,14 @@ I am eager to connect with professionals and organizations seeking to strengthen
 - **[Vulnerability Management Program Implementation](https://github.com/churd-git/Vulnerability-Management-Program)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/churd-git/Programmatic-Vulnerability-Remediations/blob/main/README.md)**
 
-## 🚨 Threat Hunting and Security Operations
+## 🚨 Threat Hunting and Security Operations Projects
 
 - **[Threat Hunting Scenario Project 1 - Tor Browser Usage](https://github.com/churd-git/Threat-Hunting-Scenario-Tor)**
 - **[Threat Hunting Scenario Project 2 - Command and Scripting Interpreter: PowerShell](https://github.com/churd-git/Threat-Hunting-T1059)**
 - **[Threat Hunting Scenario Project 3 - Brute force, Cridential Stuffing](https://github.com/churd-git/Threat-Hunting-Cridential-Stuffing)**
+
+## ☁️ Cloud Projects
+- **[Microsft Azure Honeypot 🍯](https://github.com/churd-git/Azure-Honeypot)**
 
 <hr/>
 
