@@ -23,7 +23,7 @@ I am eager to connect with professionals and organizations seeking to strengthen
 - **[Threat Hunting Scenario Project 3 - Brute force, Cridential Stuffing](https://github.com/churd-git/Threat-Hunting-Cridential-Stuffing)**
 
 ## ☁️ Cloud Projects
-- **[Microsft Azure Honeypot 🍯](https://github.com/churd-git/Azure-Honeypot)**
+- **[Microsoft Azure Honeypot 🍯](https://github.com/churd-git/Azure-Honeypot)**
 
 <hr/>
 
