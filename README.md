@@ -26,7 +26,7 @@ I am eager to connect with professionals and organizations seeking to strengthen
 - **[Microsoft Azure Honeypot 🍯](https://github.com/churd-git/Azure-Honeypot)**
 
 ## 🐍 Python Projects
-- **[100 Days of Python (100 Projects)](https://github.com/churd-git/Python-Projects)**
+- **[100 Days of Python (100 Projects)🧑🏾‍💻](https://github.com/churd-git/Python-Projects)**
 <hr/>
 
 ## 🤳 Connect With Me
