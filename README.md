@@ -1,4 +1,4 @@
-# <a>Carlton Hurd</a>'s Portfolio👨🏾‍💻 🔐
+# <a>Carlton Hurd</a>'s Portfolio 💻 📂 💭
 
 I thrive on solving complex security challenges and I aspire to lead blue team projects & initiatives that protect organizations from sophisticated cyber threats. Known as a "jack of all trades" I seamlessly blend diverse skills & tools to eliminate threats and enhance cyber defences, doing my part to safeguard any digital environment I work in.
 
