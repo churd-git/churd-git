@@ -22,6 +22,7 @@ I am eager to connect with professionals and organizations seeking to strengthen
 - **[Threat Hunting Scenario Project 2 - Command and Scripting Interpreter: PowerShell (T1059.001)](https://github.com/churd-git/Threat-Hunting-T1059)**
 - **[Threat Hunting Scenario Project 3 - Brute force, Credential Stuffing (T1110.004)](https://github.com/churd-git/Threat-Hunting-Cridential-Stuffing)**
 - **[Threat Hunting Scenario Project 4 - Data Exfiltration (T1027.003)](https://github.com/churd-git/Threat-Hunting-Data-Exfiltration)**
+- **[Threat Hunting Scenario Project 5 - Phantom APT (T1566, T1059, T1056.001, T1567)](https://github.com/churd-git/Threat-Hunting-Phantom-Hackers-APT)**
 
 ## ☁️ Cloud Projects
 - **[Microsoft Azure Honeypot 🍯](https://github.com/churd-git/Azure-Honeypot)**
