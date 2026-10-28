@@ -25,7 +25,8 @@ I am eager to connect with professionals and organizations seeking to strengthen
 - **[Threat Hunting Scenario Project 5 - Phantom APT (T1566, T1059, T1056.001, T1567)](https://github.com/churd-git/Threat-Hunting-Phantom-Hackers-APT)**
 
 ## ☁️ Cloud Projects
-- **[Microsoft Azure Honeypot 🍯](https://github.com/churd-git/Azure-Honeypot)**
+- **[AWS Account Security Baseline & CloudTrail Audit Logging](https://github.com/churd-git/AWS-account-security-baseline)**
+- **[Microsoft Azure Honeypot](https://github.com/churd-git/Azure-Honeypot)**
 
 ## 🐍 Python Projects
 - **[100 Days of Python (100 Projects)🧑🏾‍💻](https://github.com/churd-git/Python-Projects)**
